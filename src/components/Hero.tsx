@@ -10,15 +10,6 @@ export default function Hero() {
     <section id="home" className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 pt-20">
       <div className="max-w-7xl mx-auto w-full">
         <div className="text-center">
-          <div className="mb-8 inline-block">
-            <div className="w-48 h-48 rounded-full bg-gradient-to-br from-slate-200 to-slate-300 mx-auto shadow-2xl overflow-hidden border-4 border-white">
-              <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
-                alt="Mohammed Djoumi"
-                className="w-full h-full object-cover"
-              />
-            </div>
-          </div>
 
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-slate-900 mb-4">
             Mohammed Djoumi
